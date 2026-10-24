@@ -1,0 +1,11 @@
+{
+  "source_file": "sales_data.csv",
+  "original_rows": 51,
+  "stored_rows": 51,
+  "eligible_for_revenue": 48,
+  "rows_with_quality_flags": 3,
+  "excluded_from_revenue": 3,
+  "eligible_net_revenue": 1439200.0,
+  "database": "C:\\Users\\91939\\OneDrive\\Desktop\\buisness_ai_proj\\data\\sales.db",
+  "revenue_policy": "Completed transactions only; positive quantity and unit price; valid nonnegative discount; valid date and product; unique transaction ID."
+}
